@@ -1,0 +1,24 @@
+DX704 Week 2 — Acknowledgments
+Date: 2025-09-15
+
+People / Discussions
+- None.
+
+External Libraries (beyond standard course stack)
+- None. (Used only numpy, pandas, matplotlib.)
+
+Data Sources
+- strawberry-prices.tsv from the dx704-project-02 repository (course-provided; transformed from BLS/FRED series APU0000711415).
+- USDA ERS article/figure on seasonal fruit pricing (referenced in the assignment prompt).
+
+Example Code & References (allowed)
+- https://github.com/bu-cds-omds/dx704-examples
+- https://github.com/bu-cds-omds/dx601-examples
+- https://github.com/bu-cds-omds/dx602-examples
+- https://github.com/bu-cds-omds/dx603-examples
+
+Generative AI Usage
+- None.
+
+Other Notes
+- Only the files explicitly requested by the assignment were created (strawberry-backtest.tsv, backtest-accuracy.tsv, strawberry-forecast.tsv, timings.tsv, check.tsv, acknowledgments.txt).
